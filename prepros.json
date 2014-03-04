@@ -1,0 +1,752 @@
+{
+  "id": "3ea19d97",
+  "cfgVersion": 1,
+  "name": "structr-sandbox",
+  "files": {
+    "6df7391d": {
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "6df7391d",
+      "pid": "3ea19d97",
+      "name": "jquery.master.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\jquery.master.js"
+    },
+    "35244deb": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "35244deb",
+      "pid": "3ea19d97",
+      "name": "foundation.abide.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.abide.js"
+    },
+    "cc956b56": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "cc956b56",
+      "pid": "3ea19d97",
+      "name": "foundation.alerts.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.alerts.js"
+    },
+    "fde0f001": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "fde0f001",
+      "pid": "3ea19d97",
+      "name": "foundation.clearing.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.clearing.js"
+    },
+    "5ffae6ea": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "5ffae6ea",
+      "pid": "3ea19d97",
+      "name": "foundation.cookie.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.cookie.js"
+    },
+    "37e6f760": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "37e6f760",
+      "pid": "3ea19d97",
+      "name": "foundation.dropdown.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.dropdown.js"
+    },
+    "eae66a3d": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "eae66a3d",
+      "pid": "3ea19d97",
+      "name": "foundation.forms.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.forms.js"
+    },
+    "5d4519bb": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "5d4519bb",
+      "pid": "3ea19d97",
+      "name": "foundation.interchange.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.interchange.js"
+    },
+    "9583b812": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "9583b812",
+      "pid": "3ea19d97",
+      "name": "foundation.joyride.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.joyride.js"
+    },
+    "b07a3742": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "b07a3742",
+      "pid": "3ea19d97",
+      "name": "foundation.magellan.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.magellan.js"
+    },
+    "e3906b74": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "e3906b74",
+      "pid": "3ea19d97",
+      "name": "foundation.orbit.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.orbit.js"
+    },
+    "aef7abc1": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "aef7abc1",
+      "pid": "3ea19d97",
+      "name": "foundation.placeholder.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.placeholder.js"
+    },
+    "37b20d6e": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "37b20d6e",
+      "pid": "3ea19d97",
+      "name": "foundation.reveal.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.reveal.js"
+    },
+    "4f78b8ba": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "4f78b8ba",
+      "pid": "3ea19d97",
+      "name": "foundation.section.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.section.js"
+    },
+    "a9ec1fd5": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "a9ec1fd5",
+      "pid": "3ea19d97",
+      "name": "foundation.tooltips.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\foundation.tooltips.js"
+    },
+    "7b05de2a": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "7b05de2a",
+      "pid": "3ea19d97",
+      "name": "index.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\foundation\\index.js"
+    },
+    "2c80c5bf": {
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "2c80c5bf",
+      "pid": "3ea19d97",
+      "name": "custom.modernizr.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\vendor\\custom.modernizr.js"
+    },
+    "75d8044a": {
+      "config": {
+        "autoCompile": false,
+        "uglify": true,
+        "mangle": true
+      },
+      "id": "75d8044a",
+      "pid": "3ea19d97",
+      "name": "zepto.js",
+      "type": "JS",
+      "input": "assets\\source\\js\\third_party\\vendor\\zepto.js"
+    },
+    "87b66bbd": {
+      "config": {
+        "autoCompile": true,
+        "lineNumbers": false,
+        "unixNewlines": false,
+        "debug": false,
+        "compass": false,
+        "fullCompass": false,
+        "compassConfigRb": false,
+        "outputStyle": "compressed",
+        "autoprefixer": false
+      },
+      "id": "87b66bbd",
+      "pid": "3ea19d97",
+      "name": "default.scss",
+      "type": "Scss",
+      "input": "assets\\source\\scss\\default.scss"
+    },
+    "786fb720": {
+      "config": {
+        "autoCompile": true,
+        "lineNumbers": false,
+        "unixNewlines": false,
+        "debug": false,
+        "compass": false,
+        "fullCompass": false,
+        "compassConfigRb": false,
+        "outputStyle": "compressed",
+        "autoprefixer": false,
+        "autoprefixerBrowsers": ""
+      },
+      "id": "786fb720",
+      "pid": "3ea19d97",
+      "name": "ie8.scss",
+      "type": "Scss",
+      "input": "assets\\source\\scss\\ie8.scss"
+    }
+  },
+  "imports": {
+    "21723695": {
+      "id": "21723695",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_flex-video.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "55054080": {
+      "id": "55054080",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_general.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "61641422": {
+      "id": "61641422",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_progress-bars.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "c656cf67": {
+      "id": "c656cf67",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\js\\third_party\\foundation\\foundation.js",
+      "parents": [
+        "6df7391d"
+      ]
+    },
+    "013e91bf": {
+      "id": "013e91bf",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\js\\third_party\\foundation\\foundation.topbar.js",
+      "parents": [
+        "6df7391d"
+      ]
+    },
+    "cdbf57ef": {
+      "id": "cdbf57ef",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\js\\jquery.functions.js",
+      "parents": [
+        "6df7391d"
+      ]
+    },
+    "e55b1419": {
+      "id": "e55b1419",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_variables.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "d5b88cbb": {
+      "id": "d5b88cbb",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_mixins.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "10b66cc6": {
+      "id": "10b66cc6",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\normalize.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "d05a74b0": {
+      "id": "d05a74b0",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\_variables.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "4de14189": {
+      "id": "4de14189",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_global.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "85361d27": {
+      "id": "85361d27",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_grid-5.scss",
+      "parents": [
+        "87b66bbd"
+      ]
+    },
+    "d92e7b02": {
+      "id": "d92e7b02",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_visibility.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "9a4547ad": {
+      "id": "9a4547ad",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_block-grid.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "7f03289e": {
+      "id": "7f03289e",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_block-grid-centered.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "828d44e1": {
+      "id": "828d44e1",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_type.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "86255e7b": {
+      "id": "86255e7b",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_buttons.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "cc47f9ea": {
+      "id": "cc47f9ea",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_forms.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "da77e947": {
+      "id": "da77e947",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_button-groups.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "e92cf859": {
+      "id": "e92cf859",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_dropdown-buttons.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "4f3b1399": {
+      "id": "4f3b1399",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_split-buttons.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "14818d9e": {
+      "id": "14818d9e",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_section.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "3c7228b0": {
+      "id": "3c7228b0",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_top-bar.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "41256ddb": {
+      "id": "41256ddb",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_orbit.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "21346d82": {
+      "id": "21346d82",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_reveal.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "7fa23e3c": {
+      "id": "7fa23e3c",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_joyride.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "4b405db5": {
+      "id": "4b405db5",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_clearing.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "38fe3e53": {
+      "id": "38fe3e53",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_alert-boxes.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "273fb96c": {
+      "id": "273fb96c",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_breadcrumbs.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "0d4d86d1": {
+      "id": "0d4d86d1",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_custom-forms.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "075ec4e0": {
+      "id": "075ec4e0",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_keystrokes.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "7c30ad26": {
+      "id": "7c30ad26",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_labels.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "bcbedf94": {
+      "id": "bcbedf94",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_inline-lists.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "28b7cf4a": {
+      "id": "28b7cf4a",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_pagination.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "502ca252": {
+      "id": "502ca252",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_panels.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "0451162d": {
+      "id": "0451162d",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_pricing-tables.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "b0d50962": {
+      "id": "b0d50962",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_side-nav.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "637017f2": {
+      "id": "637017f2",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_sub-nav.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "ba22e4d0": {
+      "id": "ba22e4d0",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_switch.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "e8bb6cc3": {
+      "id": "e8bb6cc3",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_magellan.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "711b5285": {
+      "id": "711b5285",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_tables.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "c1aa790a": {
+      "id": "c1aa790a",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_thumbs.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "5f710d89": {
+      "id": "5f710d89",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_tooltips.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "5801e657": {
+      "id": "5801e657",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_dropdown.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "b7b0d9c4": {
+      "id": "b7b0d9c4",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_alignment.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "ae1bb53a": {
+      "id": "ae1bb53a",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_element-resets.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "efa96456": {
+      "id": "efa96456",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_modifiers.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "76a9b701": {
+      "id": "76a9b701",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\styles.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "e94c9560": {
+      "id": "e94c9560",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\_responsive.scss",
+      "parents": [
+        "87b66bbd"
+      ]
+    },
+    "dd2b09a3": {
+      "id": "dd2b09a3",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\magnific-popup\\_magnific-popup.scss",
+      "parents": [
+        "87b66bbd",
+        "786fb720"
+      ]
+    },
+    "fd6ec7f4": {
+      "id": "fd6ec7f4",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_grid-ie8.scss",
+      "parents": [
+        "786fb720"
+      ]
+    },
+    "1ed74994": {
+      "id": "1ed74994",
+      "pid": "3ea19d97",
+      "path": "assets\\source\\scss\\third_party\\foundation\\components\\_block-grid-ie8.scss",
+      "parents": [
+        "786fb720"
+      ]
+    }
+  },
+  "images": {},
+  "config": {
+    "watch": true,
+    "liveRefresh": true,
+    "liveRefreshDelay": 0,
+    "filterPatterns": "",
+    "useCustomServer": false,
+    "customServerUrl": "",
+    "cssPath": "css",
+    "jsPath": "js",
+    "htmlPath": "html",
+    "minJsPath": "min",
+    "htmlExtension": ".html",
+    "cssPathType": "REPLACE_TYPE",
+    "htmlPathType": "REPLACE_TYPE",
+    "jsPathType": "REPLACE_TYPE",
+    "minJsPathType": "RELATIVE_FILEDIR",
+    "htmlTypes": "jade, haml, slim, markdown, md",
+    "cssTypes": "less, sass, stylus, scss, styl",
+    "jsTypes": "coffee, coffeescript, coffeescripts, ls, livescript, livescripts",
+    "cssPreprocessorPath": "",
+    "htmlPreprocessorPath": "",
+    "jsPreprocessorPath": "",
+    "minJsPreprocessorPath": "",
+    "autoprefixerBrowsers": "",
+    "ftpType": "FTP",
+    "ftpPassword": "",
+    "ftpUsername": ""
+  }
+}
