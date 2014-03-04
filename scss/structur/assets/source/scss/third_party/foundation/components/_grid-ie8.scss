@@ -6,28 +6,30 @@
     https://gist.github.com/replete/7082477
 
     (an enhanced fork of https://gist.github.com/zurbchris/5068210 )
-    
+
     1) Make sure $row-width-px = your max large breakpoint row width (e.g. 960px)
     2) Make sure $small-screen-px = your minimum large breakpoint row width (e.g. 768px)
     3) IE7 will need box-sizing polyfill, see my fix here: https://gist.github.com/replete/7082518
-    
+
     -@replete
 
 ˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭˭*/
-
+$row-width-px: 960px;
+$small-screen-px: 960px;
+$column-gutter-px: 15px;
 
 /* The Grid ---------------------- */
 $half-gutter-px: $column-gutter-px / 2;
 .row { width: $row-width-px; max-width: 100%; min-width: $small-screen-px; margin: 0 auto; }
 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -$half-gutter-px; }
-.row.large-collapse .column, 
+.row.large-collapse .column,
 .row.large-collapse .columns { padding: 0; }
 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -$half-gutter-px; }
 .row .row.large-collapse { margin: 0; }
 
-.column, 
+.column,
 .columns { float: left; min-height: 1px; padding: 0 $half-gutter-px; position: relative; }
-.column.large-centered, 
+.column.large-centered,
 .columns.large-centered { float: none; margin: 0 auto; }
 
 [class*="column"] + [class*="column"]:last-child { float: right; }
@@ -66,7 +68,7 @@ $j: 2;
 }
 /* Nicolas Gallagher's micro clearfix */
 .row { *zoom: 1; }
-.row:before, 
+.row:before,
 .row:after { content: " "; display: table; }
 .row:after { clear: both; }
 
